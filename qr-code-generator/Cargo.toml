@@ -1,0 +1,10 @@
+[package]
+name = "qr-code-generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+qrcode = "0.14"
+image = "0.25.5"
+sha256 = "1.5.0"
+cargo-tarpaulin = "0.31.5"
